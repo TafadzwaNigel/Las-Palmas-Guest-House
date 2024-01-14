@@ -1,0 +1,20 @@
+
+a:link, a:visited {
+  background-color: green;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 35vh;
+  margin-left: 2vw;
+}
+
+a:hover, a:active {
+  background-color: blue;
+}
+body{
+    background-image: url(l1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
